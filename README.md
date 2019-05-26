@@ -1,6 +1,6 @@
 # Multi Media Technology Portfolio - Julian de Moor
 
-![picture-fo-me](400.jpeg)
+![picture-fo-me](DSC-5794.jpg)
 
 **My name is Julian de Moor and I'm a student @ Maastricht Academy of Multi Media Design and Technology, MAMDT Zuyd Hogeschool**
 
